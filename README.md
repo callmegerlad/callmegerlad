@@ -5,6 +5,9 @@
     <a href="https://www.linkedin.com/in/geraldkjk/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.geraldkjk.com">
+      <img src="https://img.shields.io/badge/Website-550bba?&logo=react&logoColor=white" width="95" alt="Website Badge"/>
+    </a>
   </div>
   <h1>
     Hiii
@@ -20,7 +23,7 @@
   🎓 I’m a graduate of <strong>Nanyang Polytechnic, Diploma in Information Technology</strong>.<br/>
   🌱 I will be matriculating into <strong>Nanyang Technological University in 2024, taking Computer Science</strong>!<br/>
   ✨ My hobbies include <strong>playing video games, building mechanical keyboards and computers</strong>!<br/>
-  📫 Reach me at: <strong>geraldkjk@gmail.com</strong><br/>
+  📫 Reach me at: <a href="mailto:geraldkjk@gmail.com"><strong>geraldkjk@gmail.com</strong></a><br/>
   </ul>
 </div>
 
@@ -30,7 +33,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callmegerlad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" width="160" alt=""/>
   
-  Thank you for visiting~
+  <i>Thank you for visiting~</i>
 </div>
