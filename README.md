@@ -1,39 +1,60 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TO5meWLySRoZg0GX99/giphy.gif" width="500"/>
   <br/><br/>
-  <div id="socials" style="white-space: pre">
-    <a href="https://www.linkedin.com/in/geraldkjk/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.geraldkjk.com">
-      <img src="https://img.shields.io/badge/Website-550bba?&logo=react&logoColor=white" width="95" alt="Website Badge"/>
-    </a>
-  </div>
-  <h1>
-    Hiii
+  <p style="font-size:20px">
+    Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     I'm
     <br/>
-    <strong><i>GERALD KOH</i></strong>!
-  </h1>
+    <strong style="font-size:30px">GERALD KOH!</strong>
+    <br/>
+    and I am a
+    <br/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=FFFFFF&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast" alt="Typing SVG" /></a>
+  </p>
 </div>
-
+<hr/>
 <div id="about" align="center">
-  👀 I’m interested in <strong>Cloud, AI, and web development</strong>!<br/>
-  🎓 I’m a graduate of <strong>Nanyang Polytechnic, Diploma in Information Technology</strong>.<br/>
-  🌱 I will be matriculating into <strong>Nanyang Technological University in 2024, taking Computer Science</strong>!<br/>
-  ✨ My hobbies include <strong>playing video games, building mechanical keyboards and computers</strong>!<br/>
-  📫 Reach me at: <a href="mailto:geraldkjk@gmail.com"><strong>geraldkjk@gmail.com</strong></a><br/>
-  </ul>
+
+  ### 🙋‍♂️ About Me
+  📖&nbsp; I’m currently a **Computer Science freshman** at [*Nanyang Technological University, Singapore (NTU)*](https://www.ntu.edu.sg/). \
+  🎓&nbsp; I graduated with a **Diploma in Information Technology** from [*Nanyang Polytechnic (NYP)*](https://www.nyp.edu.sg/). \
+  👀&nbsp; My interests lie in **Cloud Computing**, **Artificial Intelligence**, and **full-stack development**!
+
 </div>
+<div id="skills" align="center">
 
+  ### 💻 Tech Skills
+  #### Languages
+  ![Python Skill Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=202020)
+  ![Java Skill Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&labelColor=202020)
+  ![C Skill Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=202020)
+  ![C++ Skill Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&labelColor=202020)
+  ![HTML5 Skill Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=202020)
+  ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&labelColor=202020)
+  ![JavaScript Skill Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=202020)
+  #### Tools
+  ![Django Skill Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&labelColor=202020)
+  ![NextJS Skill Badge](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&labelColor=202020)
+  ![Tailwind CSS Skill Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&labelColor=202020)
+  ![MySQL Skill Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=202020)
+  ![PostgreSQL Skill Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&labelColor=202020)
+  \
+  ![AWS Skill Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&labelColor=202020)
+  ![GCP Skill Badge](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&labelColor=202020)
+  ![Terraform Skill Badge](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&labelColor=202020)
+  ![NumPy Skill Badge](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&labelColor=202020)
+  ![pandas Skill Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&labelColor=202020)
+  ![PyTorch Skill Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=202020)
+
+</div>
 <br/>
+<div id="footer" align="center">
 
-<div id="langs" align="center">
+  [![callmegerlad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmegerlad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callmegerlad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://profile-counter.glitch.me/{callmegerlad}/count.svg" alt="callmegerlad's Visitor Count" /><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" width="160" alt=""/>
-  
-  <i>Thank you for visiting~</i>
+  *Thank you for visiting~*
+
 </div>
