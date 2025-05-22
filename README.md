@@ -1,16 +1,19 @@
 <div id="header" align="center">
   <br/><br/>
-  <p style="font-size:20px">
+  <p>
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     I'm
     <br/>
-    <strong style="font-size:30px">GERALD KOH!</strong>
+    <strong style="font-size:45px">GERALD KOH!</strong>
     <br/>
     and I am a
     <br/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=FFFFFF&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast" alt="Typing SVG" /></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=FFFFFF&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast" alt="Typing SVG from https://git.io/typing-svg" />
+    </picture>
   </p>
 </div>
 <hr/>
