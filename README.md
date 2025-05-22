@@ -1,20 +1,15 @@
 <div id="header" align="center">
-  <br/><br/>
-  <p>
-    Hi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm
-    <br/>
-    <strong style="font-size:45px">GERALD KOH!</strong>
-    <br/>
-    and I am a
-    <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=FFFFFF&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast" alt="Typing SVG from https://git.io/typing-svg" />
-    </picture>
-  </p>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm
+  <br/><strong style="font-size:2.25rem">GERALD KOH!</strong><br/>
+  and I am a
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=FFFFFF&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast" alt="Typing SVG from https://git.io/typing-svg" />
+  </picture>
 </div>
 <hr/>
 <div id="about" align="center">
