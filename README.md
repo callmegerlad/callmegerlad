@@ -49,9 +49,9 @@
 <br/>
 <div id="footer" align="center">
 
-  [![callmegerlad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmegerlad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![callmegerlad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmegerlad&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://profile-counter.glitch.me/{callmegerlad}/count.svg" alt="callmegerlad's Visitor Count" /><br/>
+  ![My Github Profile views](https://counter.kuber.studio/callmegerlad/hacker/count.svg)
 
   *Thank you for visiting~*
 
