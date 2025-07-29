@@ -2,24 +2,26 @@
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm
-  <br/><strong>GERALD KOH!</strong><br/>
+  <br/><strong>GERALD KOH</strong><br/>
   and I am an
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=FFFFFF&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&duration=4000&pause=1500&color=000000&center=true&width=435&lines=NTU+CS+Undergraduate;aspiring+Software+Engineer;avid+tech+enthusiast" alt="Typing SVG from https://git.io/typing-svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=4000&pause=1500&color=FFFFFF&center=true&width=435&height=40&lines=NTU+CS+Undergraduate!;aspiring+Software+Engineer!;avid+tech+enthusiast!"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=4000&pause=1500&color=000000&center=true&width=435&height=40&lines=NTU+CS+Undergraduate!;aspiring+Software+Engineer!;avid+tech+enthusiast!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=4000&pause=1500&color=000000&center=true&width=435&height=40&lines=NTU+CS+Undergraduate!;aspiring+Software+Engineer!;avid+tech+enthusiast!" alt="Typing SVG from https://git.io/typing-svg" />
   </picture>
 </div>
 <hr/>
+<br/>
 <div id="about" align="center">
 
   ### 🙋‍♂️ About Me
-  📖&nbsp; I’m currently a **Computer Science freshman** at [*Nanyang Technological University, Singapore (NTU)*](https://www.ntu.edu.sg/). \
-  🎓&nbsp; I graduated with a **Diploma in Information Technology** from [*Nanyang Polytechnic (NYP)*](https://www.nyp.edu.sg/). \
+  📖&nbsp; I’m currently a **Computer Science sophomore** at [Nanyang Technological University, Singapore (NTU)](https://www.ntu.edu.sg/). \
+  🎓&nbsp; I graduated with a **Diploma in Information Technology** from [Nanyang Polytechnic (NYP)](https://www.nyp.edu.sg/). \
   👀&nbsp; My interests lie in **Cloud Computing**, **Artificial Intelligence**, and **full-stack development**!
 
 </div>
+<br/>
 <div id="skills" align="center">
 
   ### 💻 Tech Skills
@@ -46,7 +48,7 @@
   ![PyTorch Skill Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=202020)
 
 </div>
-<br/>
+<br/><br/>
 <div id="footer" align="center">
 
   [![callmegerlad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmegerlad&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
